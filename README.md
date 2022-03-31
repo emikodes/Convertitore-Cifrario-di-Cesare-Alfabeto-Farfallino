@@ -1,4 +1,4 @@
-# Cifratante
+# Cifrante
 ### Plain-text to Caesar-cypher, "farfallino" alphabet converter
 
 Seconda esercitazione didattica utilizzo framework WPF + C#.
